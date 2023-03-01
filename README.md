@@ -1,2 +1,2 @@
 # map-designs
-These maps developed for projects and to full requirement of coursework using ArcGIS, QGIS, or spatial visualization in R and Python.
+This repo will feature maps developed for various projects as well as to full coursework requirement. Most, if not all were designed in ArcGIS, QGIS, or using spatial visualization libraries in R and Python.
