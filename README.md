@@ -3,3 +3,4 @@ This repo will feature maps developed for various projects as well as to full co
 
 ![19_moll](https://user-images.githubusercontent.com/7926311/222521434-2668c81d-d240-4b6b-b721-084d749111e2.png)
 ![image](https://user-images.githubusercontent.com/7926311/222611524-7724803e-d6b1-4986-b308-ec92b778e5a7.png)
+![COVID_map](https://user-images.githubusercontent.com/7926311/222875664-0d44cc63-e15e-448c-80ed-2ff8844f3bf3.png)
