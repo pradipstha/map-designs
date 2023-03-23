@@ -1,5 +1,5 @@
 # map-designs
-This repo will feature maps developed for various projects as well as to full coursework requirement. Most, if not all were designed in ArcGIS, QGIS, or using spatial visualization libraries in R and Python.
+This repo will feature maps developed for various projects as well as to full coursework requirement. Most, if not all were designed in ArcGIS, QGIS, or using spatial visualization libraries in R, Python, Google Earth Engine.
 
 ![MODIS NDVI](https://user-images.githubusercontent.com/7926311/225773071-73958ceb-362d-475f-9a84-71889e7a530b.gif)
 ![himalayan_rivers-min](https://user-images.githubusercontent.com/7926311/227250792-68a08295-022c-4106-be47-1bef537acd3c.png)
