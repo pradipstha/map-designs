@@ -5,6 +5,8 @@ This repo will feature maps developed for various projects as well as to full co
 ![pop_canvas](https://github.com/pradipstha/map-work/assets/7926311/7defc1e6-fa8a-499b-8f8d-385f6a9e3706)
 ![ktm valley](https://github.com/pradipstha/map-work/assets/7926311/cefec784-24c1-461d-8b0b-aecd634fe102)
 ![Screenshot 2023-08-16 172228](https://github.com/pradipstha/map-work/assets/7926311/6fbd9f30-a22d-4378-a75f-bf5d8cac0207)
+https://github.com/pradipstha/map-work/assets/7926311/0ad1a4bf-b612-4568-a045-d9ea172dac79
+![nightlight](https://github.com/pradipstha/map-work/assets/7926311/77ab01d2-62fd-41aa-808a-11955ad99491)
 ![wind](https://github.com/pradipstha/map-work/assets/7926311/e62a580f-9f76-46e0-9360-a90a1e4dd83d)
 ![NDVI_Animation](https://user-images.githubusercontent.com/7926311/230428016-01d30a1e-6082-436d-928a-9e5bc8ea18d6.gif)
 ![MODIS NDVI](https://user-images.githubusercontent.com/7926311/225773071-73958ceb-362d-475f-9a84-71889e7a530b.gif)
