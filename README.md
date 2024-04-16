@@ -10,7 +10,6 @@ This repo will feature maps developed for various projects as well as to full co
 ![himalayan_rivers-min](https://user-images.githubusercontent.com/7926311/227250792-68a08295-022c-4106-be47-1bef537acd3c.png)
 ![image](https://user-images.githubusercontent.com/7926311/222611524-7724803e-d6b1-4986-b308-ec92b778e5a7.png)
 ![mekong](https://github.com/pradipstha/map-work/assets/7926311/5b950c8f-2bfe-482f-a60a-0d568af230b5)
-![viewshed](https://github.com/pradipstha/map-work/assets/7926311/9950e403-3503-43bd-9922-d64252ab83b0)
 ![short route](https://github.com/pradipstha/map-work/assets/7926311/08a2f593-6f14-4296-9643-99845e1d1a23)
 ![19_moll](https://user-images.githubusercontent.com/7926311/222521434-2668c81d-d240-4b6b-b721-084d749111e2.png)
 ![NDVI_Animation](https://user-images.githubusercontent.com/7926311/230428016-01d30a1e-6082-436d-928a-9e5bc8ea18d6.gif)
