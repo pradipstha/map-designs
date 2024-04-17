@@ -1,5 +1,5 @@
 # map-designs
-This repo will feature maps developed for various projects as well as to full coursework requirement. Most, if not all were designed in ArcGIS, QGIS, or using spatial visualization libraries in R, Python, Google Earth Engine.
+This repository serves as a comprehensive portfolio of maps, meticulously crafted for a diverse range of projects and academic coursework. The majority of these maps, if not all, were created utilizing industry-standard Geographic Information System (GIS) software such as ArcGIS and QGIS, or through the use of spatial visualization libraries in R and Python. Additionally, Google Earth Engine has been employed for its advanced geospatial capabilities.
 
 ![enchanting_canopy](https://github.com/pradipstha/map-work/assets/7926311/bbfac855-9ed0-4963-b143-040d5001f887)
 ![pop_canvas](https://github.com/pradipstha/map-work/assets/7926311/7defc1e6-fa8a-499b-8f8d-385f6a9e3706)
